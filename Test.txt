@@ -1,0 +1,16 @@
+step 1 : install typescript 
+    sudo npm i typescript -g
+
+step 2 : typescript Setup
+    -> Setting up typescript project
+    -> Configuring tsconfig.json -- ( tsc --init )
+    -> Compiling typescript -- tsc filepath
+
+
+class 1. variable types
+
+class 2. Array , tuple, Enum , Enference
+
+class 3. Interfaces and Aliases
+
+class 4 . classes and objects
